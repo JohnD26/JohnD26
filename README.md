@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Jonathan
+# Hi there! 👋 I'm John D
 
 Welcome to my GitHub profile! I'm a **Software Developer** and **Data Engineer**  with a passion for creating impactful solutions through technology. My expertise spans **machine learning**, **AI**, and **software development**, and I'm always excited about exploring new areas and taking on challenges.
 
